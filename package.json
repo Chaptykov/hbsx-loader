@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "loader-utils": "^1.1.0",
-    "bluehtml": "git+ssh://git@github.com/chaptykov/bluehtml.git"
+    "bluehtml": "https://github.com/chaptykov/bluehtml.git"
   }
 }
